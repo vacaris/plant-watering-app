@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/plant-watering-app/static/css/main.d8201fe5.css",
-    "main.js": "/plant-watering-app/static/js/main.49b01fb6.js",
+    "main.js": "/plant-watering-app/static/js/main.cc1a12cb.js",
     "index.html": "/plant-watering-app/index.html",
     "main.d8201fe5.css.map": "/plant-watering-app/static/css/main.d8201fe5.css.map",
-    "main.49b01fb6.js.map": "/plant-watering-app/static/js/main.49b01fb6.js.map"
+    "main.cc1a12cb.js.map": "/plant-watering-app/static/js/main.cc1a12cb.js.map"
   },
   "entrypoints": [
     "static/css/main.d8201fe5.css",
-    "static/js/main.49b01fb6.js"
+    "static/js/main.cc1a12cb.js"
   ]
 }
